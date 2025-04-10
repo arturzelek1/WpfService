@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="ShopApp.Pages.Welcome"
+          xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+          xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+          xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+          xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+          xmlns:local="clr-namespace:ShopApp.Pages"
+          mc:Ignorable="d" 
+          d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="Xkom" Source="/IMG/x.png" HorizontalAlignment="Left" Margin="161,25,0,0" VerticalAlignment="Top" Grid.Row="1"   Width="200" Stretch="Fill"/>
+        <Label Grid.Row="1" Content="&#xD;&#xA;-Kom" HorizontalAlignment="Left" Margin="400,0,0,0" VerticalAlignment="Top" Foreground="#FF362990" FontSize="72" FontWeight="Bold" FontFamily="Bahnschrift SemiLight"/>
+        <Label Grid.Row="1" Content="Internetowy Sklep Komputerowy" HorizontalAlignment="Center" Margin="0,243,0,0" VerticalAlignment="Top" Foreground="#FF8765DC" FontSize="48" FontWeight="Bold" FontFamily="Bahnschrift SemiLight"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,45 @@
+﻿<Window x:Class="ShopApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ShopApp"
+        mc:Ignorable="d"
+        Title="Sklep" Height="720" Width="1280" MaxHeight="1080" MaxWidth="1920" MinWidth="800" MinHeight="600" ResizeMode="NoResize">
+    <Window.Resources>
+        <Style TargetType="Control">
+            <Setter Property="FontFamily" Value="Roboto"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Background="#FF362990" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Menu IsMainMenu="True">
+                <MenuItem Header="Data" Background="#FF362990" Foreground="#FFEEEEEE">
+                    <MenuItem Header="Show Products" Click="ShowProducts" Background="#FF362990" Foreground="#FFEEEEEE"></MenuItem>
+                    <MenuItem Header="Show Clients" Click="ShowClients" Background="#FF362990" Foreground="#FFEEEEEE"></MenuItem>
+                    <MenuItem Header="Show Categories" Click="ShowCategories" Background="#FF362990" Foreground="#FFEEEEEE"></MenuItem>
+                    <MenuItem Header="Show Orders" Click="ShowOrders" Background="#FF362990" Foreground="#FFEEEEEE"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Product" Background="#FF362990" Foreground="#FFEEEEEE">
+                    <MenuItem Header="Add" Click="ShowProductAdd" Background="#FF362990" Foreground="#FFEEEEEE"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Category" Background="#FF362990" Foreground="#FFEEEEEE">
+                    <MenuItem Header="Add" Click="ShowCategoryAdd" Background="#FF362990" Foreground="#FFEEEEEE"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Orders" Background="#FF362990" Foreground="#FFEEEEEE">
+                    <MenuItem Header="Add" Click="ShowOrderAdd" Background="#FF362990" Foreground="#FFEEEEEE"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Clients" Background="#FF362990" Foreground="#FFEEEEEE" Height="39" Width="62">
+                    <MenuItem Header="Add" Click="ShowClientAdd" Background="#FF362990" Foreground="#FFEEEEEE"></MenuItem>
+                </MenuItem>
+            </Menu>
+        </StackPanel>
+
+        <ContentControl x:Name="contentControl" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Window>

@@ -1,0 +1,518 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Portfolio\\WebFormsShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\pages\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\pages\\welcome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\productadddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\productadddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\producteditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\producteditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\pages\\products.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\pages\\products.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\shopapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\shopapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\shopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\shopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\pages\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\pages\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\clienteditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\clienteditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\ordereditdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\ordereditdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\orderdetailadddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\orderdetailadddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\orderadddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\orderadddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\categoryeditdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\categoryeditdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\categoryeditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\categoryeditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\categoryadddialog - copy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\categoryadddialog - copy.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\pages\\categories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\pages\\categories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\pages\\categories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\pages\\categories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\categoryadddialog - copy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\categoryadddialog - copy.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\clienteditdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\clienteditdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\clientadddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\clientadddialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\ordereditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\ordereditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\orderdetaileditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\orderdetaileditdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\clientadddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\clientadddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\dialogs\\orderdetailadddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\dialogs\\orderdetailadddialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\pages\\orders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\pages\\orders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|e:\\portfolio\\webformsshopapp\\shopapp\\pages\\clients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A355ED61-C7A4-4985-99C6-15C171B4CCDE}|ShopApp\\ShopApp.csproj|solutionrelative:shopapp\\pages\\clients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Categories.xaml.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Categories.xaml.cs",
+              "RelativeDocumentMoniker": "ShopApp\\Pages\\Categories.xaml.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Categories.xaml.cs",
+              "RelativeToolTip": "ShopApp\\Pages\\Categories.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:37.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryAddDialog - Copy.xaml.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\CategoryAddDialog - Copy.xaml.cs",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\CategoryAddDialog - Copy.xaml.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\CategoryAddDialog - Copy.xaml.cs",
+              "RelativeToolTip": "ShopApp\\Dialogs\\CategoryAddDialog - Copy.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:37.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ShopApp\\Models\\Order.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Models\\Order.cs",
+              "RelativeToolTip": "ShopApp\\Models\\Order.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:37.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ShopApp\\Models\\Client.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Models\\Client.cs",
+              "RelativeToolTip": "ShopApp\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:37.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShopApp\\Models\\Product.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Models\\Product.cs",
+              "RelativeToolTip": "ShopApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:37.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Orders.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Orders.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Pages\\Orders.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Orders.xaml",
+              "RelativeToolTip": "ShopApp\\Pages\\Orders.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:37.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Products.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Pages\\Products.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Products.xaml",
+              "RelativeToolTip": "ShopApp\\Pages\\Products.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:37.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShopApp.csproj",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\ShopApp.csproj",
+              "RelativeDocumentMoniker": "ShopApp\\ShopApp.csproj",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\ShopApp.csproj",
+              "RelativeToolTip": "ShopApp\\ShopApp.csproj",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-10-20T22:33:37.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShopApp",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\ShopApp.csproj",
+              "RelativeDocumentMoniker": "ShopApp\\ShopApp.csproj",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\ShopApp.csproj",
+              "RelativeToolTip": "ShopApp\\ShopApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-10-20T22:33:37.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Welcome.xaml.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Welcome.xaml.cs",
+              "RelativeDocumentMoniker": "ShopApp\\Pages\\Welcome.xaml.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Welcome.xaml.cs",
+              "RelativeToolTip": "ShopApp\\Pages\\Welcome.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:37.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Welcome.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Welcome.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Pages\\Welcome.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Welcome.xaml",
+              "RelativeToolTip": "ShopApp\\Pages\\Welcome.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:37.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Clients.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Clients.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Pages\\Clients.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Clients.xaml",
+              "RelativeToolTip": "ShopApp\\Pages\\Clients.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:37.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Categories.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Categories.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Pages\\Categories.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Pages\\Categories.xaml",
+              "RelativeToolTip": "ShopApp\\Pages\\Categories.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:37.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryEditDialog.xaml.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\CategoryEditDialog.xaml.cs",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\CategoryEditDialog.xaml.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\CategoryEditDialog.xaml.cs",
+              "RelativeToolTip": "ShopApp\\Dialogs\\CategoryEditDialog.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:37.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClientAddDialog.xaml.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ClientAddDialog.xaml.cs",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\ClientAddDialog.xaml.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ClientAddDialog.xaml.cs",
+              "RelativeToolTip": "ShopApp\\Dialogs\\ClientAddDialog.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:37.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientEditDialog.xaml.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ClientEditDialog.xaml.cs",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\ClientEditDialog.xaml.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ClientEditDialog.xaml.cs",
+              "RelativeToolTip": "ShopApp\\Dialogs\\ClientEditDialog.xaml.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwEYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:37.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ShopApp\\AppDbContext.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\AppDbContext.cs",
+              "RelativeToolTip": "ShopApp\\AppDbContext.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAwAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:37.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ShopApp\\AssemblyInfo.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "ShopApp\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:37.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryEditDialog.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\CategoryEditDialog.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\CategoryEditDialog.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\CategoryEditDialog.xaml",
+              "RelativeToolTip": "ShopApp\\Dialogs\\CategoryEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:37.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderAddDialog.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderAddDialog.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\OrderAddDialog.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderAddDialog.xaml",
+              "RelativeToolTip": "ShopApp\\Dialogs\\OrderAddDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:37.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientEditDialog.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ClientEditDialog.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\ClientEditDialog.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ClientEditDialog.xaml",
+              "RelativeToolTip": "ShopApp\\Dialogs\\ClientEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:37.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClientAddDialog.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ClientAddDialog.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\ClientAddDialog.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ClientAddDialog.xaml",
+              "RelativeToolTip": "ShopApp\\Dialogs\\ClientAddDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:37.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\MainWindow.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\MainWindow.xaml",
+              "RelativeToolTip": "ShopApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:38.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\App.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\App.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\App.xaml",
+              "RelativeToolTip": "ShopApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:38.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryAddDialog - Copy.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\CategoryAddDialog - Copy.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\CategoryAddDialog - Copy.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\CategoryAddDialog - Copy.xaml",
+              "RelativeToolTip": "ShopApp\\Dialogs\\CategoryAddDialog - Copy.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:38.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductEditDialog.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ProductEditDialog.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\ProductEditDialog.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ProductEditDialog.xaml",
+              "RelativeToolTip": "ShopApp\\Dialogs\\ProductEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:38.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductAddDialog.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ProductAddDialog.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\ProductAddDialog.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\ProductAddDialog.xaml",
+              "RelativeToolTip": "ShopApp\\Dialogs\\ProductAddDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:38.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderDetailEditDialog.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderDetailEditDialog.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\OrderDetailEditDialog.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderDetailEditDialog.xaml",
+              "RelativeToolTip": "ShopApp\\Dialogs\\OrderDetailEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:38.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderDetailAddDialog.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderDetailAddDialog.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\OrderDetailAddDialog.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderDetailAddDialog.xaml",
+              "RelativeToolTip": "ShopApp\\Dialogs\\OrderDetailAddDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:38.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderEditDialog.xaml",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderEditDialog.xaml",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\OrderEditDialog.xaml",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderEditDialog.xaml",
+              "RelativeToolTip": "ShopApp\\Dialogs\\OrderEditDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-10-20T22:33:38.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetailAddDialog.xaml.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderDetailAddDialog.xaml.cs",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\OrderDetailAddDialog.xaml.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderDetailAddDialog.xaml.cs",
+              "RelativeToolTip": "ShopApp\\Dialogs\\OrderDetailAddDialog.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:38.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderEditDialog.xaml.cs",
+              "DocumentMoniker": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderEditDialog.xaml.cs",
+              "RelativeDocumentMoniker": "ShopApp\\Dialogs\\OrderEditDialog.xaml.cs",
+              "ToolTip": "E:\\Portfolio\\WebFormsShopApp\\ShopApp\\Dialogs\\OrderEditDialog.xaml.cs",
+              "RelativeToolTip": "ShopApp\\Dialogs\\OrderEditDialog.xaml.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-20T22:33:38.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

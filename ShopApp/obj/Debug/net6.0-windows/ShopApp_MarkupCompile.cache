@@ -1,0 +1,20 @@
+﻿ShopApp
+
+
+winexe
+C#
+.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\
+ShopApp
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\App.xaml
+16-301937413
+
+241206632573
+215-1509225130
+Dialogs\CategoryAddDialog - Copy.xaml;Dialogs\CategoryEditDialog.xaml;Dialogs\ClientAddDialog.xaml;Dialogs\ClientEditDialog.xaml;Dialogs\OrderAddDialog.xaml;Dialogs\OrderDetailAddDialog.xaml;Dialogs\OrderDetailEditDialog.xaml;Dialogs\OrderEditDialog.xaml;Dialogs\ProductAddDialog.xaml;Dialogs\ProductEditDialog.xaml;MainWindow.xaml;Pages\Categories.xaml;Pages\Clients.xaml;Pages\Orders.xaml;Pages\Products.xaml;Pages\Welcome.xaml;
+
+False
+

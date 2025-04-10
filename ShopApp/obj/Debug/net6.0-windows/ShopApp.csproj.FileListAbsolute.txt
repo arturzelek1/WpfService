@@ -1,0 +1,420 @@
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.exe
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.deps.json
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.runtimeconfig.json
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\ref\ShopApp.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.pdb
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.AssemblyReference.cache
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\App.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp_MarkupCompile.cache
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp_MarkupCompile.lref
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.g.resources
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.AssemblyInfoInputs.cache
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.AssemblyInfo.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.CoreCompileInputs.cache
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.dll
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ref\ShopApp.dll
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.pdb
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.genruntimeconfig.cache
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Humanizer.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Programowanie\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.CopyComplete
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductAddDialog.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductAddDialog.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientAddDialog.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientAddDialog.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\products.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Products.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Welcome.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Welcome.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Clients.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Clients.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Categories.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Orders.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Categories.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Orders.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductEditDialog.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductEditDialog.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientEditDialog.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientEditDialog.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryAddDialog - Copy.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryEditDialog.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryAddDialog - Copy.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryEditDialog.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderAddDialog.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderAddDialog.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderEditDialog.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderEditDialog.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailAddDialog.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailAddDialog.baml
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailEditDialog.g.cs
+F:\Programowanie\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailEditDialog.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.exe
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.deps.json
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.runtimeconfig.json
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.pdb
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.AssemblyReference.cache
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryAddDialog - Copy.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryEditDialog.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientAddDialog.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientEditDialog.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderAddDialog.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailAddDialog.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailEditDialog.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderEditDialog.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductAddDialog.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductEditDialog.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Categories.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Clients.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Orders.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Products.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Welcome.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp_MarkupCompile.cache
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp_MarkupCompile.lref
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryAddDialog - Copy.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryEditDialog.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientAddDialog.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientEditDialog.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderAddDialog.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailAddDialog.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailEditDialog.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderEditDialog.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductAddDialog.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductEditDialog.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Categories.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Clients.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Orders.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Products.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Welcome.baml
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.g.resources
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.AssemblyInfoInputs.cache
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.AssemblyInfo.cs
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.CopyComplete
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\refint\ShopApp.dll
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.pdb
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.genruntimeconfig.cache
+C:\Users\ozi02\Desktop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ref\ShopApp.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.exe
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.deps.json
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.runtimeconfig.json
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.pdb
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Humanizer.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.AssemblyReference.cache
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryAddDialog - Copy.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryEditDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientAddDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientEditDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderAddDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailAddDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailEditDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderEditDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductAddDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductEditDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Categories.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Clients.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Orders.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Products.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Welcome.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\App.g.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp_MarkupCompile.cache
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp_MarkupCompile.lref
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryAddDialog - Copy.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryEditDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientAddDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientEditDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderAddDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailAddDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailEditDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderEditDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductAddDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductEditDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\MainWindow.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Categories.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Clients.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Orders.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Products.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Welcome.baml
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.g.resources
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.AssemblyInfoInputs.cache
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.AssemblyInfo.cs
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.CoreCompileInputs.cache
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.CopyComplete
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\refint\ShopApp.dll
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.pdb
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.genruntimeconfig.cache
+E:\ATH\Semestr 4\Programowanie 4\shop\ShopApp\ShopApp\obj\Debug\net6.0-windows\ref\ShopApp.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.exe
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.deps.json
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.runtimeconfig.json
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.pdb
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Humanizer.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.AssemblyReference.cache
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderEditDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryAddDialog - Copy.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryEditDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientAddDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientEditDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderAddDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailAddDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailEditDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderEditDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductAddDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductEditDialog.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Categories.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Clients.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Orders.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Products.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Welcome.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\App.g.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp_MarkupCompile.cache
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp_MarkupCompile.lref
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryAddDialog - Copy.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryEditDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientAddDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientEditDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderAddDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailAddDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailEditDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductAddDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductEditDialog.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\MainWindow.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Categories.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Clients.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Orders.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Products.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Welcome.baml
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.g.resources
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.AssemblyInfoInputs.cache
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.AssemblyInfo.cs
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.CoreCompileInputs.cache
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.CopyComplete
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\refint\ShopApp.dll
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.pdb
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.genruntimeconfig.cache
+E:\ATH\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ref\ShopApp.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.exe
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.deps.json
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.runtimeconfig.json
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\ShopApp.pdb
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Humanizer.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.AssemblyReference.cache
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderEditDialog.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryAddDialog - Copy.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryEditDialog.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientAddDialog.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientEditDialog.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderAddDialog.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailAddDialog.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailEditDialog.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderEditDialog.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductAddDialog.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductEditDialog.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Categories.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Clients.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Orders.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Products.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Welcome.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\App.g.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp_MarkupCompile.cache
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp_MarkupCompile.lref
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryAddDialog - Copy.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\CategoryEditDialog.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientAddDialog.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ClientEditDialog.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderAddDialog.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailAddDialog.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\OrderDetailEditDialog.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductAddDialog.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Dialogs\ProductEditDialog.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\MainWindow.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Categories.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Clients.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Orders.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Products.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\Pages\Welcome.baml
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.g.resources
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.AssemblyInfoInputs.cache
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.AssemblyInfo.cs
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.CoreCompileInputs.cache
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\refint\ShopApp.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.pdb
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.genruntimeconfig.cache
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ref\ShopApp.dll
+E:\UBB\Semestr 4\Programowanie 4\lab6\ShopApp\ShopApp\obj\Debug\net6.0-windows\ShopApp.csproj.Up2Date
